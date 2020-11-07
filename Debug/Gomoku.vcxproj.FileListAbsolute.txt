@@ -1,0 +1,2 @@
+C:\Users\nico_\Nextcloud\Documents\Nicolas\ISEN Lille\Deuxième année 1\Programmation orienté objet\Projet1_Gomoku\Gomoku\Debug\Gomoku.exe
+C:\Users\nico_\Nextcloud\Documents\Nicolas\ISEN Lille\Deuxième année 1\Programmation orienté objet\Projet1_Gomoku\Gomoku\Debug\Gomoku.pdb
