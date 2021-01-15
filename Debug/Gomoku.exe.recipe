@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <ProjectOutputs>C:\Users\nico_\Nextcloud\Documents\Nicolas\ISEN Lille\Deuxième année 1\Programmation orienté objet\Projet1_Gomoku\Gomoku\Debug\Gomoku.exe</ProjectOutputs>
-  <ContentFiles></ContentFiles>
-  <SatelliteDlls></SatelliteDlls>
-  <NonRecipeFileRefs></NonRecipeFileRefs>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\nico_\Nextcloud\Documents\Nicolas\ISEN Lille\Deuxième année 1\Programmation orienté objet\Projet1_Gomoku\Gomoku\Debug\Gomoku.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
 </Project>
